@@ -2,7 +2,7 @@
 ![alt text](https://github.com/DanielMJones2005/HW12_InteractiveVizDashBoards/blob/master/img/bacteria_by_filterforgedotcom.jpg)
 
 ## Task 
-*Build an interactive dashboard to explore the Belly Button Biodiversity DataSet
+Build an interactive dashboard to explore the Belly Button Biodiversity DataSet
 
 ## Files
 
@@ -73,7 +73,8 @@ Used Plotly.js to build interactive charts for dashboard
  Deploy Flask app to Heroku
  * [int-act-viz-dashboard](https://int-act-viz-dashboard.herokuapp.com/)
 
-# Advanced Challenge Assignment (Optional): Belly Button Washing Frequency
+# Advanced Challenge Assignment (Optional): 
+# Belly Button Washing Frequency
 * Created Gauge Chart to plot the Weekly Washing Frequency obtained from the /metadata/<sample>route
 * Gauge code accounted for values ranging from 0 - 9
 * Gauge updates whenever a new sample is selected
